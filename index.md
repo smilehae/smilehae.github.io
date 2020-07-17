@@ -16,6 +16,6 @@
 [See My GitHub](https://github.com/smilehae)
 
 ### Game Modeling 
-[Unknown Ventri](https://www.youtube.com/watch?v=leR7e-snlfs&feature=youtu.be)
+[Unknown Ventri](#)
 
 
