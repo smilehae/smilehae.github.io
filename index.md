@@ -1,11 +1,11 @@
 # PROFILE
 
-**name** : mihae Pyun
+**name** : mihae Pyun<br>
 **hobby** : voice acting, playing cello, programming anything I can.
 
 # SKILLS
 
-### C :      ★★★☆☆
+### C :      ★★★☆☆ <br>
 ### Java :   ★☆☆☆☆
 ### C# :     ★☆☆☆☆
 ### Unity :  ★★☆☆☆
